@@ -1,0 +1,4 @@
+open notepad and write code
+save the code
+open cmd type javac and file name
+program will be compiled run it by typing java and file name
